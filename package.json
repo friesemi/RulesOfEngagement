@@ -1,0 +1,23 @@
+{
+  "name": "RulesOfEngagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/friesemi/RulesOfEngagement"
+  },
+  "author": "Michael Friesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/friesemi/RulesOfEngagement/issues"
+  },
+  "homepage": "https://github.com/friesemi/RulesOfEngagement#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

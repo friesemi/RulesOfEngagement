@@ -1,0 +1,26 @@
+{
+  "soldier": {
+    "move": "4",
+    "attack": "1",
+    "dice": "1",
+    "cost": "5"
+  },
+  "jeep": {
+    "move": "7",
+    "attack": "1",
+    "dice": "2",
+    "cost": "15"
+  },
+  "tank": {
+    "move": "5",
+    "attack": "2",
+    "dice": "2",
+    "cost": "20"
+  },
+  "artillery": {
+    "move": "4",
+    "attack": "3",
+    "dice": "3",
+    "cost": "30"
+  }
+}

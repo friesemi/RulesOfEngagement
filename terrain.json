@@ -1,0 +1,26 @@
+{
+  //strong positions
+  "mountain": {
+
+  },
+  "forest": {
+
+  },
+  "city": {
+
+  },
+
+  //weak positions
+  "desert": {
+
+  },
+  "swamp": {
+
+  },
+  "ocean": {
+
+  },
+  "river": {
+
+  }
+}
