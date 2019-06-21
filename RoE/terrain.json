@@ -1,26 +1,31 @@
 {
   //strong positions
   "mountain": {
-
+    "bonus": "1"
   },
   "forest": {
+    "bonus": "1"
 
   },
   "city": {
+    "bonus": "1"
 
   },
 
   //weak positions
   "desert": {
-
+    "penalty": "1"
   },
   "swamp": {
+    "penalty": "1"
 
   },
   "ocean": {
+    "penalty": "1"
 
   },
   "river": {
+    "penalty": "1"
 
   }
 }
