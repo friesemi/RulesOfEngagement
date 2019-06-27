@@ -1,0 +1,17 @@
+
+#introduction {
+     position: relative;
+     left: 20px;
+     margin: 0px;
+
+ }
+
+#intro-list {
+    display: inline-flex;
+    list-style-type: none;
+    background-color: green;
+}
+
+ul {
+    margin: 0px;
+}
