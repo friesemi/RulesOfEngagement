@@ -1,13 +1,13 @@
 //spot for the server code
-
 //make express server for testing on local machine
 var express = require('express');
 var exhbs = require('express-handlebars');
+var path = require('path');
 
 var app = express();
 var port = process.env.PORT || 3000
 
-app.engine('handlebars', exhbs({ defaultLayout: main }));
+app.engine('handlebars', exhbs({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 
 app.use(express.static('public'));
