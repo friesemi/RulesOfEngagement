@@ -5,12 +5,31 @@
         <meta charset="utf-8" />
         <title>Rules of Engagement</title>
 
+        <link rel="stylesheet" type="text/css" href="gameStyle.css" />
+        <link rel="stylesheet" type="text/css" href="mainStyle.css" />
+        <link rel="stylesheet" type="text/css" href="settingsStyle.css" />
+        <link rel="stylesheet" type="text/css" href="titleStyle.css" />
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.1.2/handlebars.runtime.js" charset="utf-8" defer></script>
 
     </head>
 
     <body>
+        <main>
+            <div id="introduction">
+                <h2 id="title">Rules of Engagement</h2>
+
+                <div >
+                    <ul id="intro-list">
+                        <li class="intro-item"><a href="/">Play</a></li>
+                        <li class="intro-item"><a href="/rules">Rules</a></li>
+                        <li class="intro-item"><a href="/settings">Settings</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </main>
+
         {{{body}}}
     </body>
 </html>
